@@ -14,7 +14,7 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
 ```
 
-Include the above two CDN links just before closing the </body> tag
+Include the above two CDN links just before closing the body tag
 
 ## Learn More
 
