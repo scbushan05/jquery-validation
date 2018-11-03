@@ -20,4 +20,4 @@ Include the above two CDN links just before closing the body tag
 
 You can find the tutorial for this example @ 
 
-< />
+<http://bushansirgur.in/jquery-validation-example />
